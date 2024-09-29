@@ -7,7 +7,7 @@ Personal Information
 ###  How many times you join PyCon Hong Kong? (optional)
 - [ ] 1, It's my first time.
 - [ ] 2 - 4
-- [ ] 5 - 9, I'm supportor
+- [ ] 5 - 9, I'm supporter
 - [ ] 10, I never miss it. 
   
 ### Where are you come from? (mandatory)
@@ -148,6 +148,22 @@ Please specify
 - [ ] After Party, Pizza & Beer
 - [ ] Lightening Talk
 
+---
+## Next Event
+### How much would you be likely or happy to pay for the next event?
+- [ ] 0 HKD - 100 HKD
+- [ ] 100 HKD - 500 HKD
+- [ ] 500 HKD - 1000 HKD
+- [ ] More than 1000 HKD
+
+### What kind of inclusions would you expect at the next event? (Select all that apply)
+- [ ] Lunch Boxes
+- [ ] Coffee and Tea
+- [ ] Snacks
+- [ ] Networking Sessions
+- [ ] Workshop Materials
+- [ ] Event Swag (T-shirts, Stickers, etc.)
+- [ ] Other (please specify)
 
 --- 
 ## Marketing Consent
