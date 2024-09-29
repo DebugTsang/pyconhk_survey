@@ -71,13 +71,16 @@
 - [ ] No
 
 ### Your preferred language of communication?
-- [ ] Mandarin
+- [ ] Cantonese
 - [ ] English
+- [ ] Mandarin
 - [ ] Others (please specify)
 
-### Where are you joining this event from?
+### Where are you come from? 
 - [ ] Hong Kong
 - [ ] China
+- [ ] Taiwan
+- [ ] Japanese
 - [ ] Others (please specify)
 
 # Optional / Extras
