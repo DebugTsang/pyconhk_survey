@@ -11,7 +11,7 @@
 - [ ] 55-64
 - [ ] 65 and above
 
-### Current occupation?
+### Your current occupation?
 - [ ] Student
 - [ ] Educator/Teacher
 - [ ] Developer
