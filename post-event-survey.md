@@ -3,14 +3,14 @@
 Personal Information
 1. Your Eventbrite Order Number
 
-### Background
-1.  How many times you join PyCon Hong Kong? (optional)
+## Background
+###  How many times you join PyCon Hong Kong? (optional)
 - [ ] 1, It's my first time.
 - [ ] 2 - 4
 - [ ] 5 - 9, I'm supportor
 - [ ] 10, I never miss it. 
   
-2. Where are you come from? (mandatory)
+### Where are you come from? (mandatory)
 - [ ] Hong Kong
 - [ ] China
 - [ ] Macau
@@ -21,11 +21,11 @@ Personal Information
 - [ ] Malaysia
 - [ ] Other, please specific 
   
-3. Have you attended PyCon events in other chapters, such as PyCon Taiwan, PyCon Japan, or PyCon US? (optional)
+### Have you attended PyCon events in other chapters, such as PyCon Taiwan, PyCon Japan, or PyCon US? (optional)
 - [ ] Yes
 - [ ] No
   
-4. Please select the range that best represents your annual salary in Hong Kong Dollars: (optional)
+### Please select the range that best represents your annual salary in Hong Kong Dollars: (optional)
 - [ ] Less than HKD 100,000
 - [ ] HKD 100,000 - HKD 300,000
 - [ ] HKD 300,000 - HKD 500,000
@@ -33,16 +33,16 @@ Personal Information
 - [ ] More than HKD 1,000,000
 
 ---
-### - Venue
+## - Venue
 
-5. How would you rate the venue for the event?
+### How would you rate the venue for the event?
 - [ ] Fantastic
 - [ ] Perfect
 - [ ] Good
 - [ ] Poor
 - [ ] Bad, it can be improve a lot
 
-6. Reason of your love this venue?
+### Reason of your love this venue?
 -[ ] Convenient location
 -[ ] Beautiful ambiance
 -[ ] Great amenities
@@ -56,28 +56,28 @@ Personal Information
 -[ ] Accessible for people with disabilities
 -[ ] Other, please specify: selection
 
-1. Opinion for improvement for the venue? (optional)
+### Opinion for improvement for the venue? (optional)
 Please specify
 
 --- 
-### Session
-8. Which topic is your favorite?
+## Session
+### Which topic is your favorite?
    
 - [ ] Topic Name 1 - CHAN Tai Man (HH:MM) 
 - [ ] Topic Name 2 - SUZUKI san (HH:MM) 
 - [ ] Topic Name 3 - Daniel Forrest (HH:MM) 
 
-9. Was the break time sufficient for your needs?
+### Was the break time sufficient for your needs?
 - [ ] Yes. 
 - [ ] No. It's too short
   
-10. What event modal would you like
+### What event modal would you like
 - [ ] 1 Day Conference. 
 - [ ] 2 Days Conference.
 - [ ] 1 Day Conference, 1 Day Dev Sprint
 - [ ] 2 Days Conference, 1 Day Dev Sprint
 
-11. What activities you want it happen in conference
+### What activities you want it happen in conference
 - [ ] 30 mins & 15 mins session talk
 - [ ] Workshop
 - [ ] Dev Sprint
@@ -91,11 +91,11 @@ Please specify
 ## Marketing Consent
 
 By participating in this conference, you have the option to opt-in for direct marketing communications from our organization and our partners with the Name / Email / Phone number.  Please indicate your preference below:
-12. Direct Marketing Communication from conference organizers. 
+### Direct Marketing Communication from conference organizers. 
 - [ ] Yes, I would like to receive direct marketing communications from the conference organizers.
 - [ ] No, I do not wish to receive any direct marketing communications from conference organizers.
 
-13. Direct Marketing Communication from PyCon HK 2024 sponsors. 
+### Direct Marketing Communication from PyCon HK 2024 sponsors. 
 - [ ] Yes, I would like to receive direct marketing communications from the conference partners.
 - [ ] No, I do not wish to receive any direct marketing communications from conference partners.
 
