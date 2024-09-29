@@ -32,7 +32,7 @@ Personal Information
 - [ ] HKD 500,000 - HKD 1,000,000
 - [ ] More than HKD 1,000,000
 
-
+---
 ### - Venue
 
 5. How would you rate the venue for the event?
@@ -90,7 +90,7 @@ Please specify
 --- 
 ## Marketing Consent
 
-By participating in this conference, you have the option to opt-in for direct marketing communications from our organization and our partners with the Name / Email / Phone number. Please indicate your preference below:
+By participating in this conference, you have the option to opt-in for direct marketing communications from our organization and our partners with the Name / Email / Phone number.  Please indicate your preference below:
 12. Direct Marketing Communication from conference organizers. 
 - [ ] Yes, I would like to receive direct marketing communications from the conference organizers.
 - [ ] No, I do not wish to receive any direct marketing communications from conference organizers.
@@ -103,25 +103,3 @@ Your privacy is important to us. We will only use your personal information for 
 
 Thank you for your participation!
 
-
-
-
-
-
-
-
----
-How would you rate the venue for the event?
-Was the break time sufficient for your needs?
-What improvements would you suggest for the common area?
-What was your favorite topic discussed during the event? (Please choose from the provided topic list)
-Did you have the opportunity to connect with the booths at the event?
-Are there any specific improvements or suggestions you have for the booths?
-Is there any additional feedback or comments you would like to provide regarding the topics discussed at the event?
-How would you rate the venue for the event?
-Was the break time sufficient for your needs?
-What improvements would you suggest for the common area?
-What was your favorite topic discussed during the event? (Please choose from the provided topic list)
-Did you have the opportunity to connect with the booths at the event?
-Are there any specific improvements or suggestions you have for the booths?
-Is there any additional feedback or comments you would like to provide regarding the topics discussed at the event? -+-+-+-+-+
