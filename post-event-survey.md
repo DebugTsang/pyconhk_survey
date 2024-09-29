@@ -33,6 +33,68 @@ Personal Information
 - [ ] More than HKD 1,000,000
 
 ---
+## - Overall Event
+### How would you rate your overall experience at the event?
+- [ ] Excellent
+- [ ] Good
+- [ ] Average
+- [ ] Poor
+- [ ] Very Poor
+
+### How satisfied were you with the following aspects of the event?
+
+#### Event Organization
+- [ ] Very Satisfied
+- [ ] Satisfied
+- [ ] Neutral
+- [ ] Dissatisfied
+- [ ] Very Dissatisfied
+
+#### Venue/Location
+- [ ] Very Satisfied
+- [ ] Satisfied
+- [ ] Neutral
+- [ ] Dissatisfied
+- [ ] Very Dissatisfied
+
+#### Speakers/Presentations
+- [ ] Very Satisfied
+- [ ] Satisfied
+- [ ] Neutral
+- [ ] Dissatisfied
+- [ ] Very Dissatisfied
+
+#### Networking Opportunities
+- [ ] Very Satisfied
+- [ ] Satisfied
+- [ ] Neutral
+- [ ] Dissatisfied
+- [ ] Very Dissatisfied
+
+### What could be improved for future events? (Select all that apply)
+- [ ] Event Organization
+- [ ] Venue/Location
+- [ ] Speakers/Presentations
+- [ ] Networking Opportunities
+- [ ] Workshops/Sessions
+- [ ] Other (please specify)
+
+### How likely are you to attend future events organized by us?
+- [ ] Very Likely
+- [ ] Likely
+- [ ] Neutral
+- [ ] Unlikely
+- [ ] Very Unlikely
+
+### Would you recommend this event to a friend or colleague?
+- [ ] Yes
+- [ ] No
+
+### Would you like to receive updates about future events?
+- [ ] Yes
+- [ ] No
+
+---
 ## - Venue
 
 ### How would you rate the venue for the event?
