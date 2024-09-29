@@ -7,7 +7,7 @@ Personal Information
 ###  How many times you join PyCon Hong Kong? (optional)
 - [ ] 1, It's my first time.
 - [ ] 2 - 4
-- [ ] 5 - 9, I'm supportor
+- [ ] 5 - 9, I'm supporter
 - [ ] 10, I never miss it. 
   
 ### Where are you come from? (mandatory)
@@ -31,6 +31,68 @@ Personal Information
 - [ ] HKD 300,000 - HKD 500,000
 - [ ] HKD 500,000 - HKD 1,000,000
 - [ ] More than HKD 1,000,000
+
+---
+## - Overall Event
+### How would you rate your overall experience at the event?
+- [ ] Excellent
+- [ ] Good
+- [ ] Average
+- [ ] Poor
+- [ ] Very Poor
+
+### How satisfied were you with the following aspects of the event?
+
+#### Event Organization
+- [ ] Very Satisfied
+- [ ] Satisfied
+- [ ] Neutral
+- [ ] Dissatisfied
+- [ ] Very Dissatisfied
+
+#### Venue/Location
+- [ ] Very Satisfied
+- [ ] Satisfied
+- [ ] Neutral
+- [ ] Dissatisfied
+- [ ] Very Dissatisfied
+
+#### Speakers/Presentations
+- [ ] Very Satisfied
+- [ ] Satisfied
+- [ ] Neutral
+- [ ] Dissatisfied
+- [ ] Very Dissatisfied
+
+#### Networking Opportunities
+- [ ] Very Satisfied
+- [ ] Satisfied
+- [ ] Neutral
+- [ ] Dissatisfied
+- [ ] Very Dissatisfied
+
+### What could be improved for future events? (Select all that apply)
+- [ ] Event Organization
+- [ ] Venue/Location
+- [ ] Speakers/Presentations
+- [ ] Networking Opportunities
+- [ ] Workshops/Sessions
+- [ ] Other (please specify)
+
+### How likely are you to attend future events organized by us?
+- [ ] Very Likely
+- [ ] Likely
+- [ ] Neutral
+- [ ] Unlikely
+- [ ] Very Unlikely
+
+### Would you recommend this event to a friend or colleague?
+- [ ] Yes
+- [ ] No
+
+### Would you like to receive updates about future events?
+- [ ] Yes
+- [ ] No
 
 ---
 ## - Venue
@@ -86,6 +148,22 @@ Please specify
 - [ ] After Party, Pizza & Beer
 - [ ] Lightening Talk
 
+---
+## Next Event
+### How much would you be likely or happy to pay for the next event?
+- [ ] 0 HKD - 100 HKD
+- [ ] 100 HKD - 500 HKD
+- [ ] 500 HKD - 1000 HKD
+- [ ] More than 1000 HKD
+
+### What kind of inclusions would you expect at the next event? (Select all that apply)
+- [ ] Lunch Boxes
+- [ ] Coffee and Tea
+- [ ] Snacks
+- [ ] Networking Sessions
+- [ ] Workshop Materials
+- [ ] Event Swag (T-shirts, Stickers, etc.)
+- [ ] Other (please specify)
 
 --- 
 ## Marketing Consent
