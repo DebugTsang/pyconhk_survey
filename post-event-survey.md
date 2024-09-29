@@ -90,7 +90,7 @@ Please specify
 --- 
 ## Marketing Consent
 
-By participating in this conference, you have the option to opt-in for direct marketing communications from our organization and our partners. Please indicate your preference below:
+By participating in this conference, you have the option to opt-in for direct marketing communications from our organization and our partners with the Name / Email / Phone number. Please indicate your preference below:
 12. Direct Marketing Communication from conference organizers. 
 - [ ] Yes, I would like to receive direct marketing communications from the conference organizers.
 - [ ] No, I do not wish to receive any direct marketing communications from conference organizers.
