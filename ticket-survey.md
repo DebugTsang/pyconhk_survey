@@ -12,13 +12,21 @@
 - [ ] 65 and above
 
 ### Your current occupation?
+- [ ] Data Engineer
+- [ ] Data Scientist/Analyst
+- [ ] Application Developer
+- [ ] Mobile Developer
+- [ ] DevOps Engineer
+- [ ] C-level executive
+- [ ] Project Managers
+- [ ] Technology Manager
+- [ ] Entrepreneur/Startup Founder
+- [ ] Sales
+- [ ] Consultant
+- [ ] Product Owner / Scrum Master
+- [ ] Digital / Business Owner
 - [ ] Student
 - [ ] Educator/Teacher
-- [ ] Developer
-- [ ] Data Scientist/Analyst
-- [ ] DevOps Engineer
-- [ ] Managers and C-level executives (CXOs)
-- [ ] Entrepreneur/Startup Founder
 - [ ] Other (please specify)
 
 ### Gender:
